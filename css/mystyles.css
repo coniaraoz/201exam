@@ -1,0 +1,113 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: deeppink;
+    background-color: rgb(255, 224, 228) !important;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(245, 114, 184) !important;
+}
+.font-weight-bold{
+    color: rgb(245, 114, 184) !important;
+}
+.mb-5{
+    color: rgb(255, 170, 215) !important;
+}
+.mb-4{
+    color: hotpink !important;
+}
+.btn-xl{
+    color: hotpink !important;
+}
+.common{
+    font-family: cursive;
+    color: hotpink;
+    position: absolute;
+}
+.btn-primary {
+    color: antiquewhite !important;
+    background-color: pink !important;
+}
+.btn-primary:hover{
+    color: hotpink !important;
+    background-color: palevioletred !important;
+}
+.navbar-brand{
+    color: pink !important;
+}
+.nav-link{
+    color: pink !important;
+}
+.bg-primary{
+    --bs-bg-opacity: 1;
+    background-color: pink !important;
+}
+.hr.divider{
+    border-color: pink !important;
+}
+.mt-0{
+    border-color: pink !important;
+}
+.mb-0{
+    color: hotpink !important;
+}
+.mb-2{
+    color: rgb(227, 118, 137) !important;
+}
+/*div styles*/
+.common{
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    font-size: small;
+
+}
+.middle{
+    top: 100px;
+    left: 0px;
+    right: 0px;
+}
+.bottom{
+    position: relative;
+    bottom: 100px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    text-align: center;
+    background-color: pink;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: smaller;
+}
+.portfolio-box:hover .portfolio-box-caption{
+    background-color: pink !important;
+}
+.masthead{
+    background-image: url(../assets/img/9009db5fbcb9cf44f235a51e6217c0a7.jpg)!important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.h1, p{
+    background-color: white;
+    color: pink;
+    padding: 5px 10px;
+}
+.transparent-pink-background{
+    background-color: rgba(255, 192, 203, 0.5); /* Pink with 50% transparency */
+    color: black; /* Set the text color to black for visibility */
+    padding: 5px 10px; /* Add some padding around the text */
+}
+.bg-dark{
+    background-color: pink !important;
+}
+.imgcenter{
+    display: block;
+    margin: auto;
+    border: 5px solid;
+    border-color: deeppink;
+}
